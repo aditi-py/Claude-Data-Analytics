@@ -82,9 +82,3 @@ The project uses Claude Code's configuration system:
 - Supports multiple visualization libraries
 - Provides hooks for automation and quality control
 
-
-## 注意要点
-
-- 详细的分析代码和相关文档需要保存在项目中，可以进一步方便查看具体的分析过程和数据验证结果。
-- 报告和文档请尽量用中文
-- visualization画图注意中文字体问题！
